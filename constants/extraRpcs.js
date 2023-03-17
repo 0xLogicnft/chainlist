@@ -2056,6 +2056,11 @@ export const extraRpcs = {
       "https://evmapi2.nuls.io",
     ],
   },
+  1230: {
+    rpcs: [
+      "https://network.hzroc.art",
+    ],
+  },
 };
 
 const allExtraRpcs = mergeDeep(llamaNodesRpcs, extraRpcs);
